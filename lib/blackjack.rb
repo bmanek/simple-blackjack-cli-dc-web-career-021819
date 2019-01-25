@@ -65,5 +65,3 @@ end
 def runner
   # code runner here
 end
-    
-deal_card
