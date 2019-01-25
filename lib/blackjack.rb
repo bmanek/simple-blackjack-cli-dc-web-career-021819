@@ -23,7 +23,8 @@ end
 
 
 def get_user_input
-  decision = gets
+  decision = gets.chomp
+  decision
 end
 
 
