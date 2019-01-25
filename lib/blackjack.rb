@@ -8,7 +8,7 @@ end
 def deal_card(card = 0)
   new_card = rand(1..11)
   card += new_card
-  card
+  return card
 end
 
 
